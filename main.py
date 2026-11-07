@@ -3,4 +3,4 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-print(os.getenv("message"))
+print(os.getenv("MESSAGE"))
